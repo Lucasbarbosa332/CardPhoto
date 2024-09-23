@@ -5,4 +5,4 @@ I created a carousel animation with photos of places across Asia, including Hong
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img width=60% src=""></img>
+<img width=60% src="https://github.com/Lucasbarbosa332/CardPhoto/blob/main/Captura%20de%20tela%202024-09-23%20015249.png"></img>
